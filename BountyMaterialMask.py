@@ -1,6 +1,7 @@
 #Add 1 scene
 #delete all materials of scene objects
 import bpy, random ,sys
+#2
 
 def SetMaterial():
 	
