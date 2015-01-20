@@ -10,6 +10,8 @@ def SetMaterial():
 	m.bounty.diff_color.hsv = (r,1,1)
 	m.diffuse_color = m.bounty.diff_color
 	m.bounty.emittance = 1
+	m.bounty.specular_reflect = 0
+
 	#print (ob)
 	#sys.exit(0)
 
